@@ -26,7 +26,7 @@ keep_rename = dict(zip(keep_vars, keep_new))
 labels = {keep_rename[i] : i for i in keep_rename}
 
 num_args, user_args = len(sys.argv), sys.argv[1:]
-#print('\nWorking directory: {}'.format(os.getcwd()))
+print('\nWorking directory: {}'.format(os.getcwd()))
 #breakpoint()
 #if len(user_args) > 1: raise SyntaxError('Too many arguments.')
 source = 's' in user_args
