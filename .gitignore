@@ -144,3 +144,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+Deep Learning and Reinforcement Learning/Peer review/project/report.pdf
+Deep Learning and Reinforcement Learning/Peer review/project/svm.ipynb
+Deep Learning and Reinforcement Learning/Peer review/SemEval2018-Task3-master/bert_binary.ipynb
+Deep Learning and Reinforcement Learning/Peer review/SemEval2018-Task3-master/report.pdf
